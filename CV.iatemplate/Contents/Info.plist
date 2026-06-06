@@ -7,9 +7,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.example.template</string>
+	<string>com.8fold.cv</string>
 	<key>CFBundleName</key>
-	<string>Example</string>
+	<string>Curriculum Vitae</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -29,7 +29,7 @@
 	<key>IATemplateDescription</key>
 	<string>Example template.</string>
 	<key>IATemplateAuthor</key>
-	<string>Example</string>
+	<string>8fold</string>
 	<key>IATemplateAuthorURL</key>
 	<string>https://example.com</string>
 </dict>
