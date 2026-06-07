@@ -7,7 +7,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.8fold.cv</string>
+	<string>com.8fold.template</string>
 	<key>CFBundleName</key>
 	<string>Curriculum Vitae</string>
 	<key>CFBundleShortVersionString</key>
@@ -27,10 +27,10 @@
 	<key>IATemplateHeaderHeight</key>
 	<integer>90</integer>
 	<key>IATemplateDescription</key>
-	<string>Example template.</string>
+	<string>A curriculum vitae template geared toward single employer with multiple roles/titles and contract work single employer/freelance with multiple clients.</string>
 	<key>IATemplateAuthor</key>
 	<string>8fold</string>
 	<key>IATemplateAuthorURL</key>
-	<string>https://example.com</string>
+	<string>https://itsjoshbruce.com</string>
 </dict>
 </plist>
