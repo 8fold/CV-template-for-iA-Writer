@@ -35,10 +35,14 @@ Download the template then, from iA Writer's menu choose: File → Install Templ
 
 **Terms:**
 
-- *Client*: The legal entity you did the work with or for. (It might be difficult for some to think of an employer as a Client, but it’s valid and keeps things concise.)
-- *Payer*: The legal entity responsible for paying you (tax liability). (Under traditional employment contexts, the Payer and Client are the same.)
-- *Role*: A label or profession that encapsulates the primary responsibilities you performed. (ex. Software Developer)
-- *Title*: A label given to you by someone else. *Sometimes employers don’t give you profession- or responsibility-based titles.* (ex. Code Ninja)
+- *Client*:  
+  The legal entity you did the work with or for. (It might be difficult for some to think of an employer as a Client, but it’s valid and keeps things concise.)
+- *Payer*:  
+  The legal entity responsible for paying you (tax liability). (Under traditional employment contexts, the Payer and Client are the same.)
+- *Role*:  
+  A label or profession that encapsulates the primary responsibilities you performed. (ex. Software Developer)
+- *Title*:  
+  A label given to you by someone else. *Sometimes employers don’t give you profession- or responsibility-based titles.* (ex. Code Ninja)
 
 **Standards and Sources:**
 
