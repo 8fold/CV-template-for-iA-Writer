@@ -1,6 +1,6 @@
 # Curriculum Vitae Template for iA Writer
 
-Bottom-line up front: Submitting a CV will never replace knowing someone. Therefore, think of a CV more as a way to record your experiences rather to become employed or get a gig. Further, if the opportunity you’re applying for lists someone to contact—especially the hiring manager or recruiter—reach out to them. The most low-tech and stylistically boring CV is the safest one.
+Bottom-line up front: Submitting a CV will never replace knowing someone in person. Therefore, think of a CV more as a way to record your experiences rather to become employed or get a gig. Further, if the opportunity you’re applying for lists someone to contact—especially the hiring manager or recruiter—reach out to them, join affinity groups (meetups), and similar. Also, the most low-tech (plain text) and stylistically boring CV is the safest one.
 
 [iA Writer](https://ia.net/writer) is a [markdown editor](https://ia.net/writer/support/basics/markdown-guide) for macOS, Windows, iOS, and iPadOS.
 
@@ -8,7 +8,7 @@ This template is to help you create a Curriculum Vitae (CV or résumé, dependin
 
 There are multiple template variations you can install. The templates fall into two categories: those considered Applicant Tracking System (ATS) friendly, and those designed more for human consumption. That’s not to say the ATS-friendly versions *aren’t* human-friendly, just that ATSs have some different processing needs.
 
-The syntax—the way you write the CV—is the same; however, when exported to the file formats supported by iA Writer, they look different. See the [Writing Your CV](https://github.com/8fold/CV-template-for-iA-Writer#writing-your-cv) section for details.
+The syntax—the way you write the CV—is the same; however, when exported to the file formats supported by iA Writer, they look different. See the [Formatting Your CV](https://github.com/8fold/CV-template-for-iA-Writer#formatting-your-cv) and [Writing Your CV](https://github.com/8fold/CV-template-for-iA-Writer#writing-your-cv) sections for details.
 
 ## Installing Templates
 
@@ -31,20 +31,34 @@ iOS supports adding template bundles, as well as ZIP archives, with one template
 
 Download the template then, from iA Writer's menu choose: File → Install Template → Select 'TemplateName.iatemplate.zip' file.
 
-## Writing Your CV
+## Formatting Your CV
 
 **Terms:**
 
+- *Client*: The legal entity you did the work with or for. (It might be difficult for some to think of an employer as a Client, but it’s valid and keeps things concise.)
+- *Payer*: The legal entity responsible for paying you (tax liability). (Under traditional employment contexts, the Payer and Client are the same.)
 - *Role*: A label or profession that encapsulates the primary responsibilities you performed. (ex. Software Developer)
 - *Title*: A label given to you by someone else. *Sometimes employers don’t give you profession- or responsibility-based titles.* (ex. Code Ninja)
 
-For the sake of your CV, we recommend using a single Role for each engagement. This should indicate what the bullets describe, without being false; don’t be shady.
+**Recommendations:**
+
+1. Use the [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)
+2. Use the same date format throughout; we recommend two-digit month, followed by a forward slash (`/`), followed by the four-digit year (`MM/YYYY`). ex. 09/2026
+3. *You* the individual person are the important entity and a CV is your story; front load Roles, not Payers.
+4. Use *common* (boring) language; you may be a highly emotional/creative/romantic individual, but the people and software systems interacting with CVs will get frustrated by the labor required to translate your language to theirs or they might not put you in the right place in their database. ex. Human Resources over Helpers of Humans.
+5. Use standard dots (discs) or dashes for bulleted lists.
+6. Avoid nested lists. ATSs (most software meant for parading text) does better with single levels of hierarchy in general.
+7. Avoid graphics, columns, tables, special characters (this includes [ligatures](https://en.wikipedia.org/wiki/Ligature_(writing))).
+8. Use common (popular) system fonts and disable ligatures or choose fonts that don’t use them. ex. Times New Roman or New York (default serif on Windows and macOS, respectively), Arial or Helvetica (popular sans-serif), and Courier New or Menlo (popular monospace fonts). (ATS and other Optical Character Recognition software may not do well with that “wicked cool” font you found).
+9. Avoid headers and footers. This is specifically for modern word processors where you might put page numbers, contact information on each page, and so on. (I uploaded my CV to an ATS once and it made an engagement entry for January 1905 because it thought 1/5 was a date, not page 1 of 5.)
+
+## Writing Your CV
 
 CVs typically operate using the [Inverted Pyramid](https://en.wikipedia.org/wiki/Inverted_pyramid_(journalism)) for content, which is that the perceived most valuable information is at the top, and less valuable is at the bottom. (The width of the triangle is perceived value, while the content’s physical position is relative to each other, which is why the pyramid is inverted.)
 
 ### Headers
 
-To making ATS-parsing as safe as possible, we recommend using only two-levels of headers, and that you use *common* header titles; automated parsers won’t understand that “Awesomesauce” means “Professional Experience.”
+To make ATS-parsing as safe as possible, we recommend using only two-levels of headers, and that you use *common* header titles; automated parsers won’t understand that “Awesomesauce” means “Professional Experience.”
 
 Further, you can reorder these sections, and this is not an exhaustive sample of headings. For example, if you have not had much work experience, because you’ve been attending school, your “Education” section may be higher in the pyramid than your “Professional Experience” section.
 
@@ -92,13 +106,11 @@ For example, someone asks you for a two-page CV. The “Other” section can pro
 
 If you’re “normal” in the sense that you typically get a job with a company and typically perform duties for that company, and those duties were always related to your assigned Role, then your CV is going to be pretty straightforward. If you’re operating in the gig-economy or similar, it can be a little more challenging, because it doesn’t match what’s considered the standard (the dominant mode).
 
-Personal story: I’ve always worked outside of companies that have hired me. I’ve frequently fulfilled responsibilities outside the scope of my hired Role; whether as an employee of a company, as a freelancer, or as a business operator myself. Therefore, trying to write a CV that *actually* tells my story has been rough.
+Personal story: I’ve always worked outside of companies that have hired me. I’ve frequently fulfilled responsibilities outside the scope of my hired Role; whether as an employee of a company, as a freelancer, or as a business operator myself. Therefore, trying to write a CV that *actually* tells my story has been rough. So, a fair amount of research, paying two professional CV writers, and living in the 21st century led me to create this project.
 
 #### Standard Engagement
 
-**Terms:**
-
-- Payer: The legal entity responsible for paying you (tax liability).
+For the sake of your CV, we recommend using a single Role for each engagement. This should indicate/summarize what the bullets describe, without being false; don’t be shady.
 
 ```
 ## Professional Experience
@@ -157,7 +169,7 @@ Note: The more ATS-friendly approach would be to make it a bullet in a list, bec
 
 **Branch Manager, Company C** 10/2024–present
 
-> Formal title was "Teller of Tellers."
+> Formal title: "Teller of Tellers."
 
 **Branch Manager, Company B** 09/2023–10/2024
 
@@ -166,7 +178,6 @@ Note: The more ATS-friendly approach would be to make it a bullet in a list, bec
 **Bank Teller, Company A** 01/2020–02/2021
 ```
 
-This is a straight chronological CV; one Role, with one Payer, for a specific duration. Easy. But, for some, it’s inaccurate and unhelpful. What if you want to change careers?
-
+This is a straight chronological CV; one Role, with one Payer, for a specific duration—no concurrent work. Easy. But, for some, it’s inaccurate and unhelpful. What if you had a full-time role and a part-time role?
 
 
