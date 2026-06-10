@@ -1,0 +1,76 @@
+@import "settings.css";
+/*@import "fonts/fonts.css";*/
+
+* {
+	line-height: var(--line-height);	
+	font-family: var(--font-base);
+	font-size: var(--font-size-base);
+	font-variant-ligatures: none;
+}
+
+body {
+	background-color: var(--color-bg);
+}
+
+h1,
+h2,
+h3 {
+	font-weight: 700;
+}
+
+h1 {
+	font-weight: 900;
+	font-size: var(--font-size-title);
+}
+
+h2 {
+	margin-top: 2rem;
+	font-size: var(--font-size-section);
+}
+
+h3 {
+	margin-top: 0;
+	margin-bottom: 0;	
+	font-size: var(--font-size-role);
+}
+
+h4 {
+	margin-top: 0;
+	margin-bottom: 0;	
+	font-size: var(--font-size-base);
+}
+
+blockquote {
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 1.25rem;
+}
+
+ul {
+	margin-top: 1.25rem;
+}
+
+ul > li > ul {
+	margin-top: 0;
+}
+
+h3 + p,
+h4 + p {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+h3 + p + p,
+h4 + p + p {
+	margin-top: 0;
+}
+
+@media print {
+	@page {
+		margin: 0.5in;
+	}
+
+	.page-break, hr { 
+		page-break-before: always;
+	}			
+}

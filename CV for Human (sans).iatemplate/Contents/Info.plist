@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.8fold.template</string>
+	<key>CFBundleName</key>
+	<string>CV for Humans (sans)</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>IATemplateHeaderHeight</key>
+	<string>0</string>	
+	<key>IATemplateFooterHeight</key>
+	<string>0</string>
+	<key>IATemplateDocumentFile</key>
+	<string>document</string>
+	<key>IATemplateDescription</key>
+	<string>A curriculum vitae template geared toward single employer with multiple roles/titles and contract work single employer/freelance with multiple clients.</string>
+	<key>IATemplateAuthor</key>
+	<string>8fold</string>
+	<key>IATemplateAuthorURL</key>
+	<string>https://itsjoshbruce.com</string>
+</dict>
+</plist>

@@ -1,0 +1,13 @@
+:root {
+	/* Type */
+	--line-height-base: 1.25;
+	--font-base: monospace;
+	--font-size-title: 16pt;
+	--font-size-section: 15pt;
+	--font-size-role: 14pt;
+	--font-size-base: 11pt;
+	
+	/* Colors */
+	--color-bg: #ffffff;
+	--color-fg: #000000;
+}

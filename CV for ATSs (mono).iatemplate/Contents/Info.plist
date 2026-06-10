@@ -9,23 +9,17 @@
 	<key>CFBundleIdentifier</key>
 	<string>com.8fold.template</string>
 	<key>CFBundleName</key>
-	<string>Curriculum Vitae</string>
+	<string>CV for ATS (mono)</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>IATemplateHeaderHeight</key>
+	<string>0</string>	
+	<key>IATemplateFooterHeight</key>
+	<string>0</string>
 	<key>IATemplateDocumentFile</key>
 	<string>document</string>
-	<key>IATemplateTitleFile</key>
-	<string>title</string>
-	<key>IATemplateFooterFile</key>
-	<string>footer</string>
-	<key>IATemplateFooterHeight</key>
-	<integer>90</integer>
-	<key>IATemplateHeaderFile</key>
-	<string>header</string>
-	<key>IATemplateHeaderHeight</key>
-	<integer>90</integer>
 	<key>IATemplateDescription</key>
 	<string>A curriculum vitae template geared toward single employer with multiple roles/titles and contract work single employer/freelance with multiple clients.</string>
 	<key>IATemplateAuthor</key>
