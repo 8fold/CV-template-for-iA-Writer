@@ -51,13 +51,17 @@ How we came to our recommendations.
 
 1. Don’t make people or systems think.
 2. Use the [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)
-2. Use the same date format throughout; we recommend two-digit month, followed by a forward slash (`/`), followed by the four-digit year (`MM/YYYY`). ex. 09/2026
+2. Use the same date format throughout; we recommend two-digit month, followed by a forward slash (`/`), followed by the four-digit year (`MM/YYYY`).  
+   ex. 09/2026
 3. *You* the individual person are the important entity and a CV is your story; front load Roles, not Payers.
-4. Use *common* (boring) language; you may be a highly emotional/creative/romantic individual, but the people and software systems interacting with CVs will get frustrated by the labor required to translate your language to theirs or they might not put you in the right place in their database. ex. Human Resources over Helpers of Humans.
+4. Use *common* (boring) language.  
+   You may be a highly emotional/creative/romantic individual, but the people and software systems interacting with CVs will get frustrated by the labor required to translate your language to theirs or they might not put you in the right place in their database. ex. Human Resources over Helpers of Humans.
 5. Use standard dots (discs) or dashes for bulleted lists.
-6. Avoid nested lists. ATSs (most software meant for parading text) does better with single levels of hierarchy in general.
+6. Avoid nested lists.  
+   ATSs (most software meant for parsing text) does better with single levels of hierarchy in general.
 7. Avoid graphics, columns, tables, special characters (this includes [ligatures](https://en.wikipedia.org/wiki/Ligature_(writing))).
-8. Use common (popular) system fonts and disable ligatures or choose fonts that don’t use them. ex. Times New Roman or New York (default serif on Windows and macOS, respectively), Arial or Helvetica (popular sans-serif), and Courier New or Menlo (popular monospace fonts). (ATS and other Optical Character Recognition software may not do well with that “wicked cool” font you found).
+8. Use common (popular) system fonts and disable ligatures or choose fonts that don’t use them.  
+   ex. Times New Roman or New York (default serif on Windows and macOS, respectively), Arial or Helvetica (popular sans-serif), and Courier New or Menlo (popular monospace fonts). (ATS and other Optical Character Recognition software may not do well with that “wicked cool” font you found).
 9. Avoid page headers and footers.  
    This is specifically for modern word processors where you might put page numbers, contact information on each page, and so on. (I uploaded my CV to an ATS once and it made an engagement entry for January 1905 because it thought 1/5 was a date, not page 1 of 5.)
 
