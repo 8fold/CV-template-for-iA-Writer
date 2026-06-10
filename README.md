@@ -6,7 +6,7 @@ This template is to help you create a Curriculum Vitae (CV or résumé, dependin
 
 There are multiple template variations you can install. The templates fall into two categories: those considered Applicant Tracking System (ATS) friendly, and those designed more for human consumption. That’s not to say the ATS-friendly versions *aren’t* human-friendly, just that ATSs have some different processing needs.
 
-The syntax—the way you write the CV—is the same; however, when exported to the file formats supported by iA Writer, they look different. See the Writing Your CV section for details.
+The syntax—the way you write the CV—is the same; however, when exported to the file formats supported by iA Writer, they look different. See the [Writing Your CV](https://github.com/8fold/CV-template-for-iA-Writer#writing-your-cv) section for details.
 
 ## Installing Templates
 
@@ -31,4 +31,11 @@ Download the template then, from iA Writer's menu choose: File → Install Templ
 
 ## Writing Your CV
 
+**Terms:**
+
+Role
+: A label or profession that encapsulates the primary responsibilities you performed. (ex. Software Developer)
+
+Title
+: A label given to you by someone else. *Sometimes employers don’t give you profession- or responsibility-based titles.* (ex. Code Ninja)
 
