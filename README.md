@@ -40,9 +40,17 @@ Download the template then, from iA Writer's menu choose: File → Install Templ
 - *Role*: A label or profession that encapsulates the primary responsibilities you performed. (ex. Software Developer)
 - *Title*: A label given to you by someone else. *Sometimes employers don’t give you profession- or responsibility-based titles.* (ex. Code Ninja)
 
+**Standards and Sources:**
+
+How we came to our recommendations.
+
+- HR Open Standards: [Candidate Use Case 2 - Resume/CV Data Extraction](https://hropentech.org/4.5R/specifications/recruiting/candidate_uc002)
+- HR Open Standards: [Candidate Use Case 1 - Transfer of Candidate Data from ATS to HRIS](https://hropentech.org/4.5R/specifications/recruiting/candidate_uc001)
+
 **Recommendations:**
 
-1. Use the [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)
+1. Don’t make people or systems think.
+2. Use the [Gregorian calendar](https://en.wikipedia.org/wiki/Gregorian_calendar)
 2. Use the same date format throughout; we recommend two-digit month, followed by a forward slash (`/`), followed by the four-digit year (`MM/YYYY`). ex. 09/2026
 3. *You* the individual person are the important entity and a CV is your story; front load Roles, not Payers.
 4. Use *common* (boring) language; you may be a highly emotional/creative/romantic individual, but the people and software systems interacting with CVs will get frustrated by the labor required to translate your language to theirs or they might not put you in the right place in their database. ex. Human Resources over Helpers of Humans.
@@ -50,7 +58,8 @@ Download the template then, from iA Writer's menu choose: File → Install Templ
 6. Avoid nested lists. ATSs (most software meant for parading text) does better with single levels of hierarchy in general.
 7. Avoid graphics, columns, tables, special characters (this includes [ligatures](https://en.wikipedia.org/wiki/Ligature_(writing))).
 8. Use common (popular) system fonts and disable ligatures or choose fonts that don’t use them. ex. Times New Roman or New York (default serif on Windows and macOS, respectively), Arial or Helvetica (popular sans-serif), and Courier New or Menlo (popular monospace fonts). (ATS and other Optical Character Recognition software may not do well with that “wicked cool” font you found).
-9. Avoid headers and footers. This is specifically for modern word processors where you might put page numbers, contact information on each page, and so on. (I uploaded my CV to an ATS once and it made an engagement entry for January 1905 because it thought 1/5 was a date, not page 1 of 5.)
+9. Avoid page headers and footers.  
+   This is specifically for modern word processors where you might put page numbers, contact information on each page, and so on. (I uploaded my CV to an ATS once and it made an engagement entry for January 1905 because it thought 1/5 was a date, not page 1 of 5.)
 
 ## Writing Your CV
 
