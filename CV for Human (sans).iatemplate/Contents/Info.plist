@@ -7,7 +7,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.8fold.template</string>
+	<string>com.8fold.template-cv-humans-sans</string>
 	<key>CFBundleName</key>
 	<string>CV for Humans (sans)</string>
 	<key>CFBundleShortVersionString</key>

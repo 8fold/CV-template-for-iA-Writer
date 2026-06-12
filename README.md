@@ -196,5 +196,3 @@ Note: The more ATS-friendly approach would be to make it a bullet in a list, bec
 ```
 
 This is a straight chronological CV; one Role, with one Payer, for a specific duration—no concurrent work. Easy. But, for some, it’s inaccurate and unhelpful. What if you had a full-time role and a part-time role?
-
-

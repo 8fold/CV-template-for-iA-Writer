@@ -7,7 +7,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.8fold.template</string>
+	<string>com.8fold.template-cv-ATS-mono</string>
 	<key>CFBundleName</key>
 	<string>CV for ATS (mono)</string>
 	<key>CFBundleShortVersionString</key>

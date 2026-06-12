@@ -1,7 +1,7 @@
 :root {
 	/* Type */
 	--line-height-base: 1.25;
-	--font-base: "Open Sans", sans-serif;
+	--font-base: sans-serif;
 	--font-size-title: 16pt;
 	--font-size-section: 15pt;
 	--font-size-role: 14pt;

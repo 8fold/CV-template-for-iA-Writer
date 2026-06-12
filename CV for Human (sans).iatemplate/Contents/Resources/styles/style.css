@@ -1,5 +1,4 @@
 @import "settings.css";
-@import "fonts/fonts.css";
 
 * {
 	line-height: var(--line-height);	
@@ -24,19 +23,22 @@ h1 {
 }
 
 h2 {
-	margin-top: 2rem;
+	margin-top: 0;
+	padding-bottom: 0;
+	padding-top: 0;
+	padding-bottom: 0;
 	font-size: var(--font-size-section);
 }
 
 h3 {
-	margin-top: 0;
-	margin-bottom: 0;	
+	padding-top: 0;
+	padding-bottom: 0;	
 	font-size: var(--font-size-role);
 }
 
 h4 {
-	margin-top: 0;
-	margin-bottom: 0;	
+	padding-top: 0;
+	padding-bottom: 0;	
 	font-size: var(--font-size-base);
 }
 
